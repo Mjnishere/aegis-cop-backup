@@ -1,0 +1,4 @@
+# Optional video-intelligence dependencies for Python 3.10 on Windows.
+# For CUDA-specific PyTorch builds, install the appropriate PyTorch wheel separately.
+opencv-python==4.11.0.86
+ultralytics==8.3.107
